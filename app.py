@@ -2,6 +2,6 @@ import streamlit as st
 
 st.title("Aplicación de Fundamento Streamlist")
 
-st. sidebar.title("parametros")
+st.sidebar.image("logo.png")
 
-st.image("logo.png")
+st.sidebar.title("parametros")
